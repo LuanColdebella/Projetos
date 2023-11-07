@@ -1,0 +1,14 @@
+C:\Projetos\Planilha\bin\Debug\net6.0\Financeiro.exe
+C:\Projetos\Planilha\bin\Debug\net6.0\Financeiro.deps.json
+C:\Projetos\Planilha\bin\Debug\net6.0\Financeiro.runtimeconfig.json
+C:\Projetos\Planilha\bin\Debug\net6.0\Financeiro.dll
+C:\Projetos\Planilha\bin\Debug\net6.0\Financeiro.pdb
+C:\Projetos\Planilha\obj\Debug\net6.0\Financeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Planilha\obj\Debug\net6.0\Financeiro.AssemblyInfoInputs.cache
+C:\Projetos\Planilha\obj\Debug\net6.0\Financeiro.AssemblyInfo.cs
+C:\Projetos\Planilha\obj\Debug\net6.0\Financeiro.csproj.CoreCompileInputs.cache
+C:\Projetos\Planilha\obj\Debug\net6.0\Financeiro.dll
+C:\Projetos\Planilha\obj\Debug\net6.0\refint\Financeiro.dll
+C:\Projetos\Planilha\obj\Debug\net6.0\Financeiro.pdb
+C:\Projetos\Planilha\obj\Debug\net6.0\Financeiro.genruntimeconfig.cache
+C:\Projetos\Planilha\obj\Debug\net6.0\ref\Financeiro.dll

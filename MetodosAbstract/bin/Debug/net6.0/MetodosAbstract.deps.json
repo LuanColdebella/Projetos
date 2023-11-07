@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MetodosAbstract/1.0.0": {
+        "runtime": {
+          "MetodosAbstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetodosAbstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Projetos\MetodosAbstract\obj\Debug\net6.0\MetodosAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MetodosAbstract\obj\Debug\net6.0\MetodosAbstract.AssemblyInfoInputs.cache
+C:\Projetos\MetodosAbstract\obj\Debug\net6.0\MetodosAbstract.AssemblyInfo.cs
+C:\Projetos\MetodosAbstract\obj\Debug\net6.0\MetodosAbstract.csproj.CoreCompileInputs.cache
+C:\Projetos\MetodosAbstract\bin\Debug\net6.0\MetodosAbstract.exe
+C:\Projetos\MetodosAbstract\bin\Debug\net6.0\MetodosAbstract.deps.json
+C:\Projetos\MetodosAbstract\bin\Debug\net6.0\MetodosAbstract.runtimeconfig.json
+C:\Projetos\MetodosAbstract\bin\Debug\net6.0\MetodosAbstract.dll
+C:\Projetos\MetodosAbstract\bin\Debug\net6.0\MetodosAbstract.pdb
+C:\Projetos\MetodosAbstract\obj\Debug\net6.0\MetodosAbstract.dll
+C:\Projetos\MetodosAbstract\obj\Debug\net6.0\refint\MetodosAbstract.dll
+C:\Projetos\MetodosAbstract\obj\Debug\net6.0\MetodosAbstract.pdb
+C:\Projetos\MetodosAbstract\obj\Debug\net6.0\MetodosAbstract.genruntimeconfig.cache
+C:\Projetos\MetodosAbstract\obj\Debug\net6.0\ref\MetodosAbstract.dll

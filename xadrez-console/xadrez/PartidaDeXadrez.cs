@@ -1,0 +1,35 @@
+﻿using System.Security.Cryptography.X509Certificates;
+using tabuleiro;
+
+namespace xadrez
+{
+    class PartidaDeXadrez
+    {
+        public Tabuleiro tab { get; private set; }
+        private int turno { get; set; }
+        private Cor jogadorAtual { get; set; }
+        public bool terminada { get; private set; }
+
+        public PartidaDeXadrez()
+        {
+            this.tab = new Tabuleiro(8, 8);
+            this.turno = 1;
+            this.jogadorAtual = Cor.Branca;
+            colocarPecas();
+            terminada = false;
+        }
+
+        public void executaMovimento(Posicao origem, Posicao destino)
+        {
+            Peca p = tab.retirarPeca(origem);
+            p.incrementarQtdeMovimento();
+            Peca pecacapturada = tab.retirarPeca(destino);
+            tab.colocarPeca(p,destino);
+        }
+
+        private void colocarPecas()
+        {
+            tab.colocarPeca(new Torre(tab, Cor.Preta), new PosicaoXadrez('c', 1).toPosicao());
+        }
+    }
+}

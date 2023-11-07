@@ -1,0 +1,14 @@
+C:\Projetos\Planilha\bin\Debug\net6.0\Planilha.exe
+C:\Projetos\Planilha\bin\Debug\net6.0\Planilha.deps.json
+C:\Projetos\Planilha\bin\Debug\net6.0\Planilha.runtimeconfig.json
+C:\Projetos\Planilha\bin\Debug\net6.0\Planilha.dll
+C:\Projetos\Planilha\bin\Debug\net6.0\Planilha.pdb
+C:\Projetos\Planilha\obj\Debug\net6.0\Planilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Planilha\obj\Debug\net6.0\Planilha.AssemblyInfoInputs.cache
+C:\Projetos\Planilha\obj\Debug\net6.0\Planilha.AssemblyInfo.cs
+C:\Projetos\Planilha\obj\Debug\net6.0\Planilha.csproj.CoreCompileInputs.cache
+C:\Projetos\Planilha\obj\Debug\net6.0\Planilha.dll
+C:\Projetos\Planilha\obj\Debug\net6.0\refint\Planilha.dll
+C:\Projetos\Planilha\obj\Debug\net6.0\Planilha.pdb
+C:\Projetos\Planilha\obj\Debug\net6.0\Planilha.genruntimeconfig.cache
+C:\Projetos\Planilha\obj\Debug\net6.0\ref\Planilha.dll

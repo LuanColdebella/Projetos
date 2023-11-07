@@ -1,0 +1,14 @@
+C:\Projetos\Enum e Composicao\EnumComposicao\bin\Debug\net6.0\EnumComposicao.exe
+C:\Projetos\Enum e Composicao\EnumComposicao\bin\Debug\net6.0\EnumComposicao.deps.json
+C:\Projetos\Enum e Composicao\EnumComposicao\bin\Debug\net6.0\EnumComposicao.runtimeconfig.json
+C:\Projetos\Enum e Composicao\EnumComposicao\bin\Debug\net6.0\EnumComposicao.dll
+C:\Projetos\Enum e Composicao\EnumComposicao\bin\Debug\net6.0\EnumComposicao.pdb
+C:\Projetos\Enum e Composicao\EnumComposicao\obj\Debug\net6.0\EnumComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Enum e Composicao\EnumComposicao\obj\Debug\net6.0\EnumComposicao.AssemblyInfoInputs.cache
+C:\Projetos\Enum e Composicao\EnumComposicao\obj\Debug\net6.0\EnumComposicao.AssemblyInfo.cs
+C:\Projetos\Enum e Composicao\EnumComposicao\obj\Debug\net6.0\EnumComposicao.csproj.CoreCompileInputs.cache
+C:\Projetos\Enum e Composicao\EnumComposicao\obj\Debug\net6.0\EnumComposicao.dll
+C:\Projetos\Enum e Composicao\EnumComposicao\obj\Debug\net6.0\refint\EnumComposicao.dll
+C:\Projetos\Enum e Composicao\EnumComposicao\obj\Debug\net6.0\EnumComposicao.pdb
+C:\Projetos\Enum e Composicao\EnumComposicao\obj\Debug\net6.0\EnumComposicao.genruntimeconfig.cache
+C:\Projetos\Enum e Composicao\EnumComposicao\obj\Debug\net6.0\ref\EnumComposicao.dll
